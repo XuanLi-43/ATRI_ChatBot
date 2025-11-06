@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Live2D_For_C++(Qt)">
+        <file>Resources/bg004e.jpg</file>
+        <file>Resources/bg017a.jpg</file>
+        <file>Resources/atri_8_Setting.txt</file>
+        <file>Resources/ATRI.ico</file>
+    </qresource>
+</RCC>

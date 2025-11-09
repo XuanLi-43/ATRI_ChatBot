@@ -39,3 +39,7 @@ https://zhuanlan.zhihu.com/p/511077879
 https://github.com/Serenaito/qf
 
 https://github.com/FLCYR/QtLive2dDesktop
+
+# 声明
+
+本作品仅供学习参考，是本人练习的作品
